@@ -1,0 +1,73 @@
+https://codecanyon.net/item/taxi-booking-app-web-dashboard-complete-solution/20006588
+https://www.udemy.com/php-laravel-53-realtime-web-apps-using-socketio/
+
+### socket.io
+https://murze.be/introducing-laravel-websockets-an-easy-to-use-websocket-server-implemented-in-php
+https://laracasts.com/series/real-time-laravel-with-socket-io
+https://medium.freecodecamp.org/how-to-use-laravel-with-socket-io-e7c7565cc19d
+https://laravel.com/docs/5.7/broadcasting
+https://www.google.com/search?q=laravel+socket&rlz=1C1CHBF_enIN835IN835&oq=laravel+socket&aqs=chrome..69i57j0j69i60l2j0l2.10855j1j7&sourceid=chrome&ie=UTF-8
+https://socket.io/
+
+### Laravel Passport
+http://esbenp.github.io/2017/03/19/modern-rest-api-laravel-part-4/
+https://stackoverflow.com/questions/42851676/how-to-invalidate-all-tokens-for-an-user-in-laravel-passport
+https://dev.to/sathish/user-authentication-using-laravels-passport-1ebn - working
+
+### Google Map official doc
+https://developers.google.com/maps/documentation/
+
+### When user account delete.. revoke all related tokens
+$userTokens = $userInstance->tokens;
+foreach($userTokens as $token) {
+	$token->revoke();
+}
+
+axios.post('/user', {
+	firstName: 'Fred',
+	lastName: 'Flintstone'
+  })
+  .then(function (response) {
+	console.log(response);
+  })
+  .catch(function (error) {
+	console.log(error);
+  });
+
+var pos = {
+  lat: 23.2156,
+  lng: 72.6369
+};
+var marker = new google.maps.Marker({position: pos, map: map});
+
+# https://codepen.io/fritkotparking/pen/NNvWPo
+https://www.flaticon.com/free-icon/route_149435#term=location&page=1&position=15
+https://www.iconfinder.com/icons/352557/location_my_icon
+
+https://codepen.io/blleb/pen/gpZemM
+
+
+https://levelup.gitconnected.com/how-to-create-custom-html-markers-on-google-maps-9ff21be90e4b
+
+https://laravelcode.com/post/laravel-56-card-payment-integration-with-instamojo-payment-gateway
+https://baymard.com/blog/autocomplete-design
+
+### Route icon
+https://www.flaticon.com/free-icon/route_149435#term=route&page=1&position=1
+https://www.flaticon.com/free-icon/square-shape-shadow_25469#term=square&page=1&position=50
+
+### Animate symbol
+https://developers.google.com/maps/documentation/javascript/symbols#custom_paths
+https://www.w3.org/TR/SVG/paths.html#PathData
+
+http://metapicz.com/#landing
+
+### Auto fill user's current location - google maps autocomplete
+https://www.google.com/search?q=autofill+user%27s+current+location+in+google+maps+autocomplete&rlz=1C1CHBF_enIN835IN835&oq=autofill+user%27s+current+location+in+google+maps+autocomplete&aqs=chrome..69i57.39319j1j7&sourceid=chrome&ie=UTF-8
+https://stackoverflow.com/questions/13689705/how-to-add-google-maps-autocomplete-search-box
+https://cpratt.co/address-autocomplete-with-google-maps-and-places-javascript-api/
+https://www.codementor.io/saptaks/autocomplete-address-form-using-google-map-api-8h4akdl05
+
+https://github.com/laravel/ideas/issues/575
+
+https://pixabay.com/

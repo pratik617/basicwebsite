@@ -1,0 +1,29 @@
+### Create laravel project
+https://www.5balloons.info/how-to-install-laravel-5-5-with-xampp-on-linux/
+
+### Admin Templates
+https://colorlib.com/wp/free-html5-admin-dashboard-templates/
+
+https://www.youtube.com/watch?v=-t7oMHzIpBQ
+matrix admin
+
+https://www.mysql.com/products/workbench/migrate/
+
+### Multiple Auth module
+https://www.codementor.io/okoroaforchukwuemeka/9-tips-to-set-up-multiple-authentication-in-laravel-ak3gtwjvt
+
+### Video Tutorial
+https://laracasts.com/series/laravel-5-from-scratch/
+
+### Country code plugin laravel
+https://github.com/jackocnr/intl-tel-input
+
+### Development messages help
+Sorry, Something went wrong. Please try again.
+
+try {
+
+} catch (Exception $e) {
+	Exceptions::exception($e);
+}
+

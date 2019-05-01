@@ -1,0 +1,31 @@
+### Ride APP
+- login/register module test & solve issues
+
+https://medium.com/techcompose/create-rest-api-in-laravel-with-authentication-using-passport-133a1678a876
+
+http://localhost:8000/dashboard
+http://birdfly.in/rideapp/api/v1/login_cust
+http://localhost:8000/api/v1/login_cust
+
+
+https://github.com/axios/axios
+https://medium.freecodecamp.org/here-is-the-most-popular-ways-to-make-an-http-request-in-javascript-954ce8c95aaa
+https://laravel-news.com/building-flexible-axios-clients
+https://itsolutionstuff.com/post/laravel-57-guzzle-http-client-post-request-exampleexample.html
+https://appdividend.com/2018/04/17/laravel-guzzle-http-client-example/
+https://medium.com/laravel-5-the-right-way/using-guzzlehttp-with-laravel-1dbea1f633da
+https://github.com/guzzle/guzzle
+
+### intervention/image
+http://image.intervention.io/
+https://www.google.com/search?q=laravel+intervention&rlz=1C1CHBF_enIN835IN835&oq=laravel+intervention&aqs=chrome..69i57j0j69i60l3j0.4597j1j7&sourceid=chrome&ie=UTF-8
+cup
+
+### Registration
+
+data-validation="required|email"
+data-validation="required length" data-validation-length="max15" (contact no)
+data-validation="required|strength" data-validation-strength="6" (password)
+data-validation="required|confirmation"
+
+data-validation-error-msg-required="Please enter your password"
